@@ -1,0 +1,84 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-04 07:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: templates/base.html:32
+msgid "Sexy"
+msgstr "情色"
+
+#: templates/base.html:35
+msgid "Make Love"
+msgstr "交合"
+
+#: templates/base.html:37
+msgid "Love Yourself"
+msgstr "自慰"
+
+#: templates/base.html:47
+msgid "Gamble"
+msgstr "博彩"
+
+#: templates/base.html:50
+msgid "Gain membership"
+msgstr "抢会员"
+
+#: templates/base.html:64
+msgid "Change password"
+msgstr "更改密码"
+
+#: templates/base.html:66
+msgid "Log out"
+msgstr "退出"
+
+#: templates/base.html:78
+msgid "Log in"
+msgstr "登录"
+
+#: templates/base.html:79
+msgid "Sign up"
+msgstr "注册"
+
+#: templates/home.html:4
+msgid "Home"
+msgstr "首页"
+
+#: templates/home.html:8
+msgid "Humanity"
+msgstr "人性网"
+
+#: templates/home.html:9
+msgid "The first world-class porn website built by Chinese."
+msgstr "第一个由中国人建造的世界级情色网站。"
+
+#: templates/registration/login.html:4 templates/registration/login.html:7
+#: templates/registration/login.html:11
+msgid "Login"
+msgstr "登录"
+
+#: templates/registration/password_reset_email.html:2
+msgid "Hi"
+msgstr "你好"
+
+#: templates/registration/password_reset_email.html:4
+msgid ""
+"We've received a request to reset your password. If you didn't make this "
+"request, you can safely ignore this email. Otherwise, click the button below "
+"to reset your password."
+msgstr ""
+"我们已经收到您的更改密码请求。如果你并没有发送这个请求，你可以放心的忽略掉这"
+"封邮件。否则，请点击下面的链接来重置密码： "
